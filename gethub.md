@@ -16,7 +16,7 @@ functionality of Git, plus its own features,founded in 2008.
 6. add changes to the staging area.
 7. commit changes
 8. Push changes to the remote.
-![Gethub](https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png)
+![Gethub](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
 
 
 >For more details see the [markdown guide](https://www.markdownguide.org/getting-started/).
