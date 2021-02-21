@@ -1,4 +1,4 @@
-# welcome to class 103
+# welcome to class 103:rocket:
 
 
 ![growth mindset](https://mightifier.com/wp-content/uploads/2020/11/dreamstime_m_172148280-1080x675.jpg)
