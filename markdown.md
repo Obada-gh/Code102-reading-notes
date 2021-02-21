@@ -4,7 +4,7 @@
 ![growth mindset](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 ## markdown
 
-A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
 
 as you see in the photo there is a fixed mindeset which mean the opposite of the growth mindset 
 to keep yourself in a growth mindset you must foucs ,face the challenges and learn from your mistaks.
