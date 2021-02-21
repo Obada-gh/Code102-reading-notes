@@ -1,4 +1,4 @@
-# welcome to class 103:rocket:
+# welcome to class 102:rocket:
 
 
 ![Gethub](https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png)
