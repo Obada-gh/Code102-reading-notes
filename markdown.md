@@ -1,17 +1,16 @@
 # welcome to class 103:rocket:
 
 
-![growth mindset](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 ## markdown
 
-Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
 
-as you see in the photo there is a fixed mindeset which mean the opposite of the growth mindset 
-to keep yourself in a growth mindset you must foucs ,face the challenges and learn from your mistaks.
+for me i used the markdown in gethub site you can say its a method to write the html pages with some style. you need to use somthing called tags in markdown this tags will allow 
+you to make the wep pages this some of the basic tags or syntaxs for the markdown [markdown syntaxs](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf):sparkles:
 
 
-
-For more details see [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
+For more details see [markdown guide](https://www.markdownguide.org/getting-started/).
 
 ##### *writen by OBADA ALHAWJREH.*
 
