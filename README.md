@@ -23,5 +23,5 @@ My name is obada jaber, I’m 27 years old, I studied Mechanical engineering and
 
 ###### *Support or Contact:*
 
-Having trouble with Pages? Check out our : [email](obada7jaber7@gmail.com) or phone number : 0781912474 or [contact support for gethub](https://support.github.com/contact) and we’ll help you sort it out. &#x1F691; &#x1F691;	 &#x1F691;			
+Having trouble with Pages? Check out our : [email](obada7jaber7@gmail.com) or phone number : 0781912474 or [contact support for gethub](https://support.github.com/contact) and we’ll help you sort it out. &#x1F691; 	 		
 
