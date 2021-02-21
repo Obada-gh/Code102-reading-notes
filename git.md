@@ -1,4 +1,4 @@
-# welcome to class 103:rocket:
+# welcome to class 102:rocket:
 
 
 ![git](https://www.fullstackpython.com/img/logos/git.png)
