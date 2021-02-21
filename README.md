@@ -1,7 +1,7 @@
 #welcome to class 103
 
 we will talk about growth mindset 
-.[][https://mightifier.com/wp-content/uploads/2020/11/dreamstime_m_172148280-1080x675.jpg]
+.[img][https://mightifier.com/wp-content/uploads/2020/11/dreamstime_m_172148280-1080x675.jpg]
 ## Growth Mindset
 
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
