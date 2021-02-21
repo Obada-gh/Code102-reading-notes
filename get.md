@@ -9,7 +9,7 @@ First developed back in 2005, Git is an extremely popular version control system
 Compared to other version control systems, Git is responsive, easy to use, and inexpensive (free, actually). Git is also specially designed to work well with text files — which, if you think about it, is what code actually is. But one thing that really sets Git apart is its branching model. Branching allows you to create independent local branches in your code. This means you can try out new ideas, set aside branches for production work, jump back to earlier branches, and easily delete, merge, and recall branches at the click of a button.
 
 ## git vs github:
->This photo shows the comparision [git vs github](https://cdn.ttgtmedia.com/rms/onlineimages/serverside-git_vs_github_mobile.png).
+This photo shows the comparision [git vs github](https://blog.devmountain.com/hs-fs/hubfs/Imported_Blog_Media/Gitvs_Github-1a-1.jpg?width=600&name=Gitvs_Github-1a-1.jpg).
 
 ##### *writen by OBADA ALHAWJREH.*
 
