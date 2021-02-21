@@ -7,7 +7,11 @@
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
 as you see in the photo there is a fixed mindeset which mean the opposite of the growth mindset 
-to keep yourself in a growth mindset you must foucs ,face the challenges and learn from your mistaks.
+to keep yourself in a growth mindset you must: 
+
+*foucs 
+*face the challenges 
+*learn from your mistaks.
 
 
 
