@@ -19,7 +19,7 @@ functionality of Git, plus its own features,founded in 2008.
 ![Gethub](https://www.coderomeos.org/storage/uploads/images/posts/how-to-use-github-simple-github-tutorial-for-beginners-5d75f561e98d4.png)
 
 
->this guide will help you to setup your pc to start with the gethub acount and all steps above[gethub setup guide](https://github.com/codefellows/setup-guide/tree/master/windows).make sure to flow things step by step for help you can
+>this guide will help you to setup your pc to start with the gethub acount and all steps above [gethub setup guide](https://github.com/codefellows/setup-guide/tree/master/windows).make sure to flow things step by step. for help you can
 contact me.
 
 ##### *writen by OBADA ALHAWJREH.*
