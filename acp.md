@@ -4,7 +4,7 @@
 ![git](https://www.programmersought.com/images/995/be1008d81e1abcf9fc70c8d896caaa9b.png)
 ## git-acp:
 
-what we you see in the photo its the tirmanl or the cmd what we want to talk about is a command you can use it in the cmd
+what we you see in the photo its the tirmanl or the [cmd](https://www.youtube.com/watch?v=MBBWVgE0ewk) what we want to talk about is a command you can use it in the cmd
 called git_acp Command for adding files, make a commit and push the current branch.           
 
 git_acp is an Ansible module for git add, git commit, git push and git config operations on local or remote (https/ssh) git repo.
