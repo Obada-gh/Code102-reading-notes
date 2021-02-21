@@ -9,9 +9,9 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 as you see in the photo there is a fixed mindeset which mean the opposite of the growth mindset 
 to keep yourself in a growth mindset you must: 
 
-*foucs 
-*face the challenges 
-*learn from your mistaks.
+* foucs.
+* face the challenges.
+* learn from your mistaks.
 
 
 
