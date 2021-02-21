@@ -1,28 +1,16 @@
 #welcome to class 103
 
-we will talk about groth mindset and markdown
-
+we will talk about growth mindset 
+.[][https://mightifier.com/wp-content/uploads/2020/11/dreamstime_m_172148280-1080x675.jpg]
 ## Growth Mindset
 
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
 to keep yourself in a growth mindset you must foucs ,face the challenges and learn from your mistaks.
 
-## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions fo
 
 
-### 5 different features of Markdown to structure your page
-
-
-1. formatting text ex: **Bold** and _Italic_ and `Code` text
-2. Code blocks and snippets
-3. Reference-style links ex:[Link](url) and ![Image](src)
-4. online coding
-5. another way for html.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
 
 #### writen by *OBADA ALHAWJREH.*
 
