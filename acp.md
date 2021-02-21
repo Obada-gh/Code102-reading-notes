@@ -1,4 +1,4 @@
-# welcome to class 102:rocket:
+# welcome to class 102 &#128640;
 
 
 ![git](https://www.programmersought.com/images/995/be1008d81e1abcf9fc70c8d896caaa9b.png)
