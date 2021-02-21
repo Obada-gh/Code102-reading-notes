@@ -1,6 +1,6 @@
 # welcome to class 102 &#128640;
 
-##I will show you the topics that i learned:
+## I will show you the topics that i learned:
 
 ![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 ## markdown
