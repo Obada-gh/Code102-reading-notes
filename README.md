@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+#welcome to class 102
 
-You can use the [editor on GitHub](https://github.com/Obada-gh/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+we will talk about groth mindset and markdown
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Growth Mindset
 
-### Markdown
+A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+to keep yourself in a growth mindset you must foucs ,face the challenges and learn from your mistaks.
 
-```markdown
-Syntax highlighted code block
+## Markdown
 
-# Header 1
-## Header 2
-### Header 3
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions fo
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### 5 different features of Markdown to structure your page
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+1. formatting text ex: **Bold** and _Italic_ and `Code` text
+2. Code blocks and snippets
+3. Reference-style links ex:[Link](url) and ![Image](src)
+4. online coding
+5. another way for html.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### writen by *obada jaber*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Obada-gh/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My name is obada jaber, I’m 27 years old, I studied Mechanical engineering and i graduated from al balqa applied university, i am now a software student. [OBADA ALHAWJREH](https://github.com/Obada-gh). 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [email](obada7jaber7@gmail.com) or phone number : 0781912474 or [contact support for gethub](https://support.github.com/contact) and we’ll help you sort it out.
