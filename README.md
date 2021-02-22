@@ -1,6 +1,6 @@
 # welcome to class 103 &#128640;
 ##OBADA ALHAWJREH.
-![OBADA ALHAWJREH](blob:https://web.whatsapp.com/ab7b769a-36e0-4516-872c-b6f2eb8fa0c6)
+![OBADA ALHAWJREH]()
 My name is obada alhawjreh, I’m 27 years old, I studied Mechanical engineering and i graduated from al balqa applied university, i am now a software student.
 these are the some topics that i learned in class 103:
 
