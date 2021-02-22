@@ -1,9 +1,4 @@
 # welcome to class 103 &#128640;
-## OBADA ALHAWJREH.
-![OBADA ALHAWJREH]()
-My name is obada alhawjreh, I’m 27 years old, I studied Mechanical engineering and i graduated from al balqa applied university, i am now a software student.
-these are the some topics that i learned in class 103:
-
 
 ![growth mindset](https://mightifier.com/wp-content/uploads/2020/11/dreamstime_m_172148280-1080x675.jpg)
 ## Growth Mindset
