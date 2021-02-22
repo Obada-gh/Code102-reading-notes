@@ -20,9 +20,10 @@ For more details see [Growth Mindset](https://www.atlassian.com/blog/inside-atla
 
 My name is obada jaber, I’m 27 years old, I studied Mechanical engineering and i graduated from al balqa applied university, i am now a software student. [OBADA ALHAWJREH](https://github.com/Obada-gh).
 
-Table of Contents
+Table of Contents :
 
 | contents     | link |
+| ------------| ------ |
 | git         | [git](https://obada-gh.github.io/reading-notes/git)       |
 | git-acp   | [github](https://obada-gh.github.io/reading-notes/acp)        |
 | github   | [git-acp]( https://obada-gh.github.io/reading-notes/github)        |
