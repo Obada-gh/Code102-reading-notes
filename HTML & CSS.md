@@ -10,6 +10,3 @@ They are covered here (rather than with the other HTML elements you met earlier 
 ## TRADITIONAL HTML LAYOUTS
 For a long time, web page authors used <div> elements to group together related elements on the page (such as the elements that form a header, an article, footer or sidebar). Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
 
-On the right you can see a layout that is quite common (particularly on blog sites).
-
-At the top of the page is the header, containing a logo and the primary navigation.
