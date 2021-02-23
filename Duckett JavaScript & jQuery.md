@@ -18,8 +18,10 @@
 
 * JavaScript to program the behavior of web pages
 
+* HTMl , css , JavaScript all togather can make excellent web page.
 
->this link make the javascript more ez see the [javascript w3 schools](https://www.w3schools.com/js/DEFAULT.asp).
+
+>to start the tutorial click on [javascript w3 schools](https://www.w3schools.com/js/DEFAULT.asp).
 
 ##### *writen by OBADA ALHAWJREH.*
 
