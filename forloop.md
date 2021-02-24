@@ -21,11 +21,11 @@ Given that x = 5, the table below explains the comparison operators:
 ![javascript](https://www12.0zz0.com/2021/02/24/22/115314789.png)
 
 * JavaScript Loops : are handy, if you want to run the same code over and over again, each time with a different value.
-1 for - loops through a block of code a number of times.
-2 for/in - loops through the properties of an object.
-3 for/of - loops through the values of an iterable object.
-4 while - loops through a block of code while a specified condition is true.
-5 do/while - also loops through a block of code while a specified condition is true.
+1. for - loops through a block of code a number of times.
+2. for/in - loops through the properties of an object.
+3. for/of - loops through the values of an iterable object.
+4. while - loops through a block of code while a specified condition is true.
+5. do/while - also loops through a block of code while a specified condition is true.
 
 * to see how they work click on the link below :
 
