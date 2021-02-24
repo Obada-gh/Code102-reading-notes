@@ -6,6 +6,16 @@
 
 * Comparison Operators : Comparison operators are used in logical statements to determine equality or difference between variables or values.
 
+* JavaScript Arithmetic Operators :
+	1. Addition +
+	2. Subtraction -
+  3. Multiplication *
+	4. Exponentiation (ES2016) **
+	5. Division /
+	6. Modulus (Division Remainder) %
+	7. Increment ++
+	8. Decrement --
+
 Given that x = 5, the table below explains the comparison operators:
 
 ![javascript](https://www12.0zz0.com/2021/02/24/22/115314789.png)
