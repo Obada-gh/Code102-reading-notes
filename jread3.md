@@ -32,14 +32,14 @@ The parentheses may include parameter names separated by commas:
 
 The code to be executed, by the function, is placed inside curly brackets: {}
 * JavaScript Arithmetic Operators :
-+	Addition
--	Subtraction
-* Multiplication
-**	Exponentiation (ES2016)
-/	Division
-%	Modulus (Division Remainder)
-++	Increment
---	Decrement
+	Addition +
+	Subtraction -
+  Multiplication *
+	Exponentiation (ES2016) **
+	Division /
+	Modulus (Division Remainder) %
+	Increment ++
+	Decrement --
 
 
 >to start the tutorial click on [javascript w3 schools](https://www.w3schools.com/js/DEFAULT.asp).
